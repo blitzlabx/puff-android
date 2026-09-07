@@ -1,5 +1,7 @@
 # Puff AI — Android (Kotlin)
 
+[![Android CI](https://github.com/blitzlabx/puff-android/actions/workflows/android.yml/badge.svg)](https://github.com/blitzlabx/puff-android/actions/workflows/android.yml)
+
 Native Android client for **Puff AI by Blitz**.
 
 - **Min SDK:** 24 (Android 7.0)
