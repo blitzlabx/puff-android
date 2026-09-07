@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0A0F14</color>
+    <color name="surface">#121A22</color>
+    <color name="accent">#00D4AA</color>
+    <color name="text">#E8F4F8</color>
+    <color name="muted">#88AAAA</color>
+    <color name="user_bubble">#0088AA</color>
+    <color name="assistant_bubble">#1A2430</color>
+    <color name="thought_bg">#0D1520</color>
+</resources>

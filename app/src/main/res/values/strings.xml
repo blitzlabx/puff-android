@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Puff AI</string>
+    <string name="start_chatting">Start chatting</string>
+    <string name="message_hint">Message Puff…</string>
+    <string name="send">Send</string>
+    <string name="new_chat">New chat</string>
+    <string name="thought_for">Thought for %1$ss</string>
+    <string name="created_by">Puff AI by Blitz</string>
+    <string name="welcome">Hi! I\'m Puff, created by Blitz.\nAsk me anything.</string>
+</resources>
